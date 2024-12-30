@@ -1,0 +1,8 @@
+{
+  "label": "Test Types",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Explore the key types of UX tests tailored to address specific design challenges and objectives. From navigation and search usability to comparing interfaces, testing user flows, and evaluating content understanding, this section provides an overview of when and how to use each test type effectively. It’s your guide to choosing the right approach for actionable insights."
+  }
+}
