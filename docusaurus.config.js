@@ -6,7 +6,7 @@ const config = {
   title: 'UX Tests Handbook',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://marypav.github.io/ux-tests-guide/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -29,7 +29,7 @@ const config = {
           breadcrumbs: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://marypav.github.io/ux-tests-guide/',
         },
         blog: false,
         theme: {
@@ -57,8 +57,9 @@ const config = {
 
 export default {
   title: 'UX Testing Guidelines',
-  url: 'https://docusaurus.io',
-  baseUrl: '/',
+  url: 'https://marypav.github.io/ux-tests-guide/',
+  baseUrl: '/ux-tests-guide/',
+  projectName: 'ux-tests-guide',
   favicon: '/img/favicon.png',
   noIndex: false, // Defaults to `false`
   tagline: 'UX Testing Guidelines',
