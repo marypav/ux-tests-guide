@@ -1,21 +1,16 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 
 module.exports = {
-  favicon: 'img/favicon.ico',
   title: 'UX Testing Guidelines',
-  url: 'https://marypav.github.io', // Только домен
-  baseUrl: '/',            // Название репозитория (или подкаталога)
-  projectName: 'ux-tests-guide',          // Название репозитория
-  organizationName: 'marypav',      // Ваше имя пользователя на GitHub
   presets: [
     [
       '@docusaurus/preset-classic',
       {
         docs: {
-          routeBasePath: '/', // Устанавливает документацию как корневой путь
+          routeBasePath: '/', 
           sidebarPath: require.resolve('./sidebars.js'),
         },
-        blog: false, // Отключение блога (если не нужен)
+        blog: false,
       },
     ],
   ],
@@ -29,6 +24,12 @@ module.exports = {
       },
     },
   },
+  url: 'https://marypav.github.io', // Только домен
+  baseUrl: 'ux-tests-guide',
+  organizationName: 'marypav',      // Ваше имя пользователя на GitHub
+  favicon: 'img/favicon.ico',
+  projectName: 'ux-tests-guide',          // Название репозитория
+  favicon: '/img/favicon.ico',
 };
 
 export default {
