@@ -1,0 +1,26 @@
+{
+  "id": "planning/choosing-participants",
+  "title": "Identifying Target Participants",
+  "description": "The right participants can make or break your UX test. They’re the key to uncovering actionable insights that truly represent your audience. This section helps you pinpoint the people who matter most for your research and ensures your findings are both relevant and impactful.",
+  "source": "@site/docs/03--planning/03--choosing-participants.md",
+  "sourceDirName": "03--planning",
+  "slug": "/planning/choosing-participants",
+  "permalink": "/ux-tests-guide/planning/choosing-participants",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Defining Test Objectives",
+    "permalink": "/ux-tests-guide/planning/defining-objectives"
+  },
+  "next": {
+    "title": "Structuring Test Scenarios",
+    "permalink": "/ux-tests-guide/planning/structuring-scenarios"
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/ux-tests-guide/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/ux-tests-guide/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "analyzing-results/identifying-insights",
+              "path": "/ux-tests-guide/analyzing-results/identifying-insights",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "analyzing-results/organizing-data",
+              "path": "/ux-tests-guide/analyzing-results/organizing-data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "analyzing-results/prioritizing-findings",
+              "path": "/ux-tests-guide/analyzing-results/prioritizing-findings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "analyzing-results/visualization-examples",
+              "path": "/ux-tests-guide/analyzing-results/visualization-examples",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "case-studies/lessons-learned",
+              "path": "/ux-tests-guide/case-studies/lessons-learned",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "case-studies/real-world-examples",
+              "path": "/ux-tests-guide/case-studies/real-world-examples",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "conducting/best-practices",
+              "path": "/ux-tests-guide/conducting/best-practices",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "conducting/handling-issues",
+              "path": "/ux-tests-guide/conducting/handling-issues",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "conducting/participant-instructions",
+              "path": "/ux-tests-guide/conducting/participant-instructions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/moderated-non-moderated",
+              "path": "/ux-tests-guide/getting-started/moderated-non-moderated",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/what-is-ux-testing",
+              "path": "/ux-tests-guide/getting-started/what-is-ux-testing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/when-to-use-non-moderated-tests",
+              "path": "/ux-tests-guide/getting-started/when-to-use-non-moderated-tests",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/ux-tests-guide/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "planning/choosing-participants",
+              "path": "/ux-tests-guide/planning/choosing-participants",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "planning/defining-objectives",
+              "path": "/ux-tests-guide/planning/defining-objectives",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "planning/structuring-scenarios",
+              "path": "/ux-tests-guide/planning/structuring-scenarios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "planning/writing-tasks",
+              "path": "/ux-tests-guide/planning/writing-tasks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "questionnaire/crafting-questions",
+              "path": "/ux-tests-guide/questionnaire/crafting-questions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "questionnaire/examples-quest",
+              "path": "/ux-tests-guide/questionnaire/examples-quest",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "questionnaire/pitfalls-to-avoid",
+              "path": "/ux-tests-guide/questionnaire/pitfalls-to-avoid",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "questionnaire/question-types",
+              "path": "/ux-tests-guide/questionnaire/question-types",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reporting-findings/actionable-recom",
+              "path": "/ux-tests-guide/reporting-findings/actionable-recom",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reporting-findings/communicating-insights",
+              "path": "/ux-tests-guide/reporting-findings/communicating-insights",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "reporting-findings/report-structure",
+              "path": "/ux-tests-guide/reporting-findings/report-structure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "resources/faqs",
+              "path": "/ux-tests-guide/resources/faqs",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "resources/test-checklist",
+              "path": "/ux-tests-guide/resources/test-checklist",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "test-types/comparative-testing",
+              "path": "/ux-tests-guide/test-types/comparative-testing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "test-types/content-understanding",
+              "path": "/ux-tests-guide/test-types/content-understanding",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "test-types/examples-quest",
+              "path": "/ux-tests-guide/test-types/examples-quest",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "test-types/navigation-search",
+              "path": "/ux-tests-guide/test-types/navigation-search",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "test-types/usability-testing",
+              "path": "/ux-tests-guide/test-types/usability-testing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/ux-tests-guide/category/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/planning-ux-tests",
+              "path": "/ux-tests-guide/category/planning-ux-tests",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/questionnaire-design",
+              "path": "/ux-tests-guide/category/questionnaire-design",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/test-types",
+              "path": "/ux-tests-guide/category/test-types",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/conducting-the-test",
+              "path": "/ux-tests-guide/category/conducting-the-test",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/analyzing-results",
+              "path": "/ux-tests-guide/category/analyzing-results",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/reporting-findings",
+              "path": "/ux-tests-guide/category/reporting-findings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/case-studies",
+              "path": "/ux-tests-guide/category/case-studies",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/resources",
+              "path": "/ux-tests-guide/category/resources",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/ux-tests-guide/",
+                "label": "Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

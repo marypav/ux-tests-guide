@@ -1,0 +1,26 @@
+{
+  "id": "resources/test-checklist",
+  "title": "Checklist for UX Test",
+  "description": "Ready to dive into your UX test? Hold on, superstar—let’s make sure you’ve covered all the bases first. This checklist is your secret weapon for running a test that’s smooth, professional, and packed with actionable insights. Whether you’re a seasoned pro or a UX newbie, this list ensures you’re ready to wow.",
+  "source": "@site/docs/10--resources/01--test-checklist.md",
+  "sourceDirName": "10--resources",
+  "slug": "/resources/test-checklist",
+  "permalink": "/ux-tests-guide/resources/test-checklist",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Resources",
+    "permalink": "/ux-tests-guide/category/resources"
+  },
+  "next": {
+    "title": "FAQs",
+    "permalink": "/ux-tests-guide/resources/faqs"
+  }
+}

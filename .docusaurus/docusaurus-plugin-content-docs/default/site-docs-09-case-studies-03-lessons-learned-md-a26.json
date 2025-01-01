@@ -1,0 +1,26 @@
+{
+  "id": "case-studies/lessons-learned",
+  "title": "Lessons Learned",
+  "description": "If there’s one thing the high-stakes world of FinTech and banking teaches us, it’s this: UX testing is your insurance policy against frustrated users and missed opportunities. Whether you’re simplifying a loan application or redesigning fraud alerts, every test is a treasure trove of lessons. Here are the standout takeaways from the trenches of UX success.",
+  "source": "@site/docs/09--case-studies/03--lessons-learned.md",
+  "sourceDirName": "09--case-studies",
+  "slug": "/case-studies/lessons-learned",
+  "permalink": "/ux-tests-guide/case-studies/lessons-learned",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Real-world Examples of Successful UX Testing",
+    "permalink": "/ux-tests-guide/case-studies/real-world-examples"
+  },
+  "next": {
+    "title": "Resources",
+    "permalink": "/ux-tests-guide/category/resources"
+  }
+}

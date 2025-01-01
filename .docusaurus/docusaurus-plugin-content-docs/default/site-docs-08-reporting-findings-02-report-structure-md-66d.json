@@ -1,0 +1,26 @@
+{
+  "id": "reporting-findings/report-structure",
+  "title": "UX Report Structure",
+  "description": "A killer UX report isn’t just a data dump—it’s a well-structured narrative that transforms raw findings into a compelling story. Think of it as your chance to shine, delivering insights that grab attention, drive decisions, and (let’s be real) make you look like the UX rockstar you are.",
+  "source": "@site/docs/08--reporting-findings/02--report-structure.md",
+  "sourceDirName": "08--reporting-findings",
+  "slug": "/reporting-findings/report-structure",
+  "permalink": "/ux-tests-guide/reporting-findings/report-structure",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Reporting Findings",
+    "permalink": "/ux-tests-guide/category/reporting-findings"
+  },
+  "next": {
+    "title": "Communicating Insights",
+    "permalink": "/ux-tests-guide/reporting-findings/communicating-insights"
+  }
+}

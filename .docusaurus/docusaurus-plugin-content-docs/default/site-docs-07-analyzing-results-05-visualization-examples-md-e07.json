@@ -1,0 +1,26 @@
+{
+  "id": "analyzing-results/visualization-examples",
+  "title": "Examples of Data Visualization",
+  "description": "Great insights deserve great visuals. A well-crafted chart or graph can transform dense data into a story that even the most design-averse stakeholders can grasp. From task completion rates to heatmaps, this section will show you how to make your findings look as sharp as your research skills.",
+  "source": "@site/docs/07--analyzing-results/05--visualization-examples.md",
+  "sourceDirName": "07--analyzing-results",
+  "slug": "/analyzing-results/visualization-examples",
+  "permalink": "/ux-tests-guide/analyzing-results/visualization-examples",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prioritizing Findings",
+    "permalink": "/ux-tests-guide/analyzing-results/prioritizing-findings"
+  },
+  "next": {
+    "title": "Reporting Findings",
+    "permalink": "/ux-tests-guide/category/reporting-findings"
+  }
+}

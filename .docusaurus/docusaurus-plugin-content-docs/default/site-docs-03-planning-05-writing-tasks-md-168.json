@@ -1,0 +1,26 @@
+{
+  "id": "planning/writing-tasks",
+  "title": "Writing Test Tasks",
+  "description": "Test tasks are the heartbeat of a UX test—they direct participants' actions and reveal how effectively your product supports their goals. Well-written tasks provide clarity, focus, and actionable insights. This section will teach you how to craft tasks that guide participants while letting their natural behavior shine.",
+  "source": "@site/docs/03--planning/05--writing-tasks.md",
+  "sourceDirName": "03--planning",
+  "slug": "/planning/writing-tasks",
+  "permalink": "/ux-tests-guide/planning/writing-tasks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Structuring Test Scenarios",
+    "permalink": "/ux-tests-guide/planning/structuring-scenarios"
+  },
+  "next": {
+    "title": "Questionnaire Design",
+    "permalink": "/ux-tests-guide/category/questionnaire-design"
+  }
+}

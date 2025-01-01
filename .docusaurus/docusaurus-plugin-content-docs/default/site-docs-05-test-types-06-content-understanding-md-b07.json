@@ -1,0 +1,26 @@
+{
+  "id": "test-types/content-understanding",
+  "title": "Testing Content Understanding",
+  "description": "Clear, concise, and compelling content is the unsung hero of user experience. Whether it’s a headline, call-to-action, or instructional text, your content must communicate effectively to guide users through your product. Testing content understanding evaluates how well your messaging resonates with users and supports their goals.",
+  "source": "@site/docs/05--test-types/06--content-understanding.md",
+  "sourceDirName": "05--test-types",
+  "slug": "/test-types/content-understanding",
+  "permalink": "/ux-tests-guide/test-types/content-understanding",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Process Testing (e.g., user flows)",
+    "permalink": "/ux-tests-guide/test-types/examples-quest"
+  },
+  "next": {
+    "title": "Conducting the Test",
+    "permalink": "/ux-tests-guide/category/conducting-the-test"
+  }
+}

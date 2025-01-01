@@ -1,0 +1,26 @@
+{
+  "id": "test-types/comparative-testing",
+  "title": "Comparative Interface Testing",
+  "description": "When you’re deciding between multiple design options, why guess when you can let your users decide? Comparative interface testing helps you evaluate which design resonates better with your audience by comparing usability, aesthetics, and overall experience. It’s the ultimate tiebreaker in your design process.",
+  "source": "@site/docs/05--test-types/04--comparative-testing.md",
+  "sourceDirName": "05--test-types",
+  "slug": "/test-types/comparative-testing",
+  "permalink": "/ux-tests-guide/test-types/comparative-testing",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Usability of Key Features",
+    "permalink": "/ux-tests-guide/test-types/usability-testing"
+  },
+  "next": {
+    "title": "Process Testing (e.g., user flows)",
+    "permalink": "/ux-tests-guide/test-types/examples-quest"
+  }
+}

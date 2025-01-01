@@ -1,0 +1,26 @@
+{
+  "id": "planning/structuring-scenarios",
+  "title": "Structuring Test Scenarios",
+  "description": "A well-structured test scenario is the backbone of effective UX testing. It provides the context and tasks participants need to interact with your product naturally and deliver meaningful insights. This section walks you through crafting scenarios that mimic real-world usage while aligning with your objectives.",
+  "source": "@site/docs/03--planning/04--structuring-scenarios.md",
+  "sourceDirName": "03--planning",
+  "slug": "/planning/structuring-scenarios",
+  "permalink": "/ux-tests-guide/planning/structuring-scenarios",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Identifying Target Participants",
+    "permalink": "/ux-tests-guide/planning/choosing-participants"
+  },
+  "next": {
+    "title": "Writing Test Tasks",
+    "permalink": "/ux-tests-guide/planning/writing-tasks"
+  }
+}

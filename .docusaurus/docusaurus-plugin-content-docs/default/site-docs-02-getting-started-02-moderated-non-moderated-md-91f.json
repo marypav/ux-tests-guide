@@ -1,0 +1,26 @@
+{
+  "id": "getting-started/moderated-non-moderated",
+  "title": "Moderated vs. Non-Moderated",
+  "description": "When it comes to UX testing, you’ve got two main options: moderated and non-moderated. Both are powerful tools, but like a hammer versus a screwdriver, each has its time and place. Let’s break them down so you can wield the right one with confidence.",
+  "source": "@site/docs/02--getting-started/02--moderated-non-moderated.md",
+  "sourceDirName": "02--getting-started",
+  "slug": "/getting-started/moderated-non-moderated",
+  "permalink": "/ux-tests-guide/getting-started/moderated-non-moderated",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is UX testing?",
+    "permalink": "/ux-tests-guide/getting-started/what-is-ux-testing"
+  },
+  "next": {
+    "title": "When to Use Non-Moderated Tests",
+    "permalink": "/ux-tests-guide/getting-started/when-to-use-non-moderated-tests"
+  }
+}
