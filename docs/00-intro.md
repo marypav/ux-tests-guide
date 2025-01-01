@@ -9,23 +9,14 @@ title: Home
 
 Welcome to the ultimate playbook for unmoderated UX testing—a must-have for designers, product managers, and developers who are serious about creating products that actually work for users. Think of this as your secret weapon to outsmart clunky interfaces, baffling user flows, and "just click everything until it works" moments.
 
-### What You’ll Get
-
-- **Step-by-step instructions** to plan, run, and analyze unmoderated UX tests.
-- **Expert insights** on writing effective test tasks and crafting impactful questionnaires.
-- **Practical examples** of test types tailored to common design challenges, from navigation to feature usability.
-- **Best practices**** for interpreting results and presenting them to stakeholders in ways that spark action.
-- **Ready-to-use templates** and tools to streamline your UX testing workflow.
-This project is more than a manual—it’s a guide to transforming user feedback into innovation.
-
 ### Who It's For
 
 This project is perfect for:
-
-- **Designers** who want to validate their ideas and enhance user satisfaction.
-- **Product managers** balancing user needs with business goals.
-- **Developers** seeking clear insights into user behavior to inform implementation.
+![What You’ll Get](/img/intro_2.png)
 Whether you’re a UX novice or a seasoned professional, these guidelines will elevate your testing approach and help you create products that truly resonate with users.
+
+### What You’ll Get
+![What You’ll Get](/img/intro_1.png)
 
 ### Why It Matters
 
