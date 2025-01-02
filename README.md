@@ -1,6 +1,22 @@
-
-# UX Testing Guidelines
+# **[UX Testing Guidelines](https://marypav.github.io/ux-tests-guide/)**
+🚀 Your ultimate playbook for unmoderated UX testing.  
 
 Welcome to the ultimate playbook for unmoderated UX testing—a must-have for designers, product managers, and developers who are serious about creating products that actually work for users. Think of this as your secret weapon to outsmart clunky interfaces, baffling user flows, and "just click everything until it works" moments.
 
-**[Link for UX Testing Guidelines project](https://marypav.github.io/ux-tests-guide/)**
+## Table of Contents  
+- [Getting Started](#)  
+- [Planning UX Tests](#)  
+- [Questionnaire Design](#)  
+- [Test Types](#)  
+- [Conducting the Test](#)  
+- [Analyzing Results](#)  
+- [Reporting Findings](#)  
+- [Resources](#)  
+
+## Getting Started  
+Kick off your UX testing journey with the basics: what unmoderated tests are, how they work, and when to use them.  
+Learn how to define objectives, write tasks, and structure scenarios that reveal user insights....continue for other sections.  
+We love collaboration! Feel free to fork this repo, submit issues, or open pull requests with your suggestions and improvements. 
+
+## License  
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
