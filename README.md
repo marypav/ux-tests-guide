@@ -19,6 +19,3 @@ Welcome to the ultimate playbook for unmoderated UX testing—a must-have for de
 Kick off your UX testing journey with the basics: what unmoderated tests are, how they work, and when to use them.  
 Learn how to define objectives, write tasks, and structure scenarios that reveal user insights....continue for other sections.  
 We love collaboration! Feel free to fork this repo, submit issues, or open pull requests with your suggestions and improvements. 
-
-## License  
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
